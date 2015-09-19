@@ -47,7 +47,10 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CharacterMotor.cs" />
      <Compile Include="Assets\Scripts\Daniel\Player Scripts\PlayerAnimationControllScript.cs" />
+     <Compile Include="Assets\Scripts\Daniel\Player Scripts\TP_CameraScript.cs" />
      <Compile Include="Assets\Scripts\Daniel\Player Scripts\TP_ControllerScript.cs" />
+     <Compile Include="Assets\Scripts\Daniel\Player Scripts\TP_HelperClassScript.cs" />
+     <Compile Include="Assets\Scripts\Daniel\Player Scripts\TP_MotorScript.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
